@@ -1,16 +1,28 @@
-### Hi there 👋
+## Olá, sou o Rafael Souto 👋
 
-<!--
-**Rafael-a11y/Rafael-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas informações sobre minha pessoa:
 
-Here are some ideas to get you started:
+- 🔭 Estou à procura de trainee ...
+- 🌱 Atualmente, cursando o último semestre da faculdade e estudando Spring Boot ...
+- 📫 Entre em contato comigo pelo meu email: rsowtto@gmail.com
+- 😄 Pronome: ele/dele
+- ⚡ Algo engraçado sobe eu: ainda não sei html 😂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Oiii eu sou o Rafael Souto, estudante de programação e universitário!
+<div align="center">
+  <a href="https://github.com/Rafael-a11y">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-a11y&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-a11y&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafael-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafael-Workbench" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Rafael-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" />    
+</div>
+
+<div>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rsowtto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafael-souto-da-silva-920335211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
