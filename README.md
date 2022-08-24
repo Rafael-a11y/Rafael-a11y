@@ -17,7 +17,7 @@ Aqui estão algumas informações sobre minha pessoa:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafael-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafael-Workbench" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafael-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" />    
+  <img align="center" alt="Rafael-Spring" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg" />    
 </div>
 
 <div>
