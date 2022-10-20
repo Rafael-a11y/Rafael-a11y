@@ -28,3 +28,5 @@ Aqui estão algumas informações sobre minha pessoa:
   
    ![Snake animation](https://github.com/Rafael-a11y/Rafael-a11y/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ce65ed7-aa9a-4c91-919f-438a2bf8fa99" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
