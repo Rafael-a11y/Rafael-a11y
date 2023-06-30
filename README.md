@@ -6,9 +6,9 @@ Aqui estão algumas informações sobre minha pessoa:
 - 🌱 Atualmente, cursando o último semestre da faculdade e estudando Spring Boot ...
 - 📫 Entre em contato comigo pelo meu email: rsowtto@gmail.com
 - 😄 Pronome: ele/dele
-- ⚡ Algo engraçado sobe eu: ainda não sei html 😂
+- ⚡ Algo engraçado sobre eu: Sou uma pessoa bem metódica. 😂
 - ✔ Minha primeira certificação Cisco de Introdução a cybersegurança: https://www.credly.com/badges/2ce65ed7-aa9a-4c91-919f-438a2bf8fa99/public_url
-## Oiii eu sou o Rafael Souto, estudante de programação e universitário!
+## Oiii eu sou o Rafael Souto, estudante de programação e graduado em Sistemas de Informação pela estácio de Sá de Taguatinga Sul!
 <div align="center">
   <a href="https://github.com/Rafael-a11y">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-a11y&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
