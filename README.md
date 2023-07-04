@@ -8,7 +8,7 @@ Aqui estão algumas informações sobre minha pessoa:
 - 😄 Pronome: ele/dele
 - ⚡ Algo engraçado sobre eu: Sou uma pessoa bem metódica. 😂
 - ✔ Minha primeira certificação Cisco de Introdução a cybersegurança: https://www.credly.com/badges/2ce65ed7-aa9a-4c91-919f-438a2bf8fa99/public_url
-## Olá, me chamo Rafael Souto, estudante de programação e graduado em Sistemas de Informação pela Estácio de Sá de Taguatinga Sul!
+## Oi, sou o Rafael Souto, formado em Sistemas de Informação.
 <div align="center">
   <a href="https://github.com/Rafael-a11y">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael-a11y&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
