@@ -2,8 +2,8 @@
 
 Aqui estão algumas informações sobre minha pessoa:
 
-- 🔭 Estou à procura de trainee ...
-- 🌱 Atualmente, cursando o último semestre da faculdade e estudando Spring Boot ...
+- 🔭 Estou à procura de uma oportunidade de emprego.
+- 🌱 Formado em Sistemas de Informação pelo Centro Universitário Estácio de Sá ...
 - 📫 Entre em contato comigo pelo meu email: rsowtto@gmail.com
 - 😄 Pronome: ele/dele
 - ⚡ Algo engraçado sobre eu: Sou uma pessoa bem metódica. 😂
